@@ -1,4 +1,4 @@
-# IntroToDjango
+# TestingDjango
 
 Django is a high-level web framework for building web applications using the Python programming language. It follows the Model-View-Controller (MVC) architectural pattern, where the model represents the data, the view represents the user interface, and the controller acts as an intermediary between the two.
 
